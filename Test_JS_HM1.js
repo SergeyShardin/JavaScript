@@ -10,8 +10,8 @@ console.log(item_3 + item_4, typeof(item_3 + item_4))
 console.log(item_3 * item_4)
 let item_5 = item_3
 let item_6 = 15
-let item_6_type = item_6
-console.log("item_6 ==", item_6, typeof(item_6), "item_6_type ==", item_6_type, typeof(item_6_type))
+let item_6_type = typeof(item_6)
+console.log("item_6 ==", typeof(item_6), "item_6_type ==", item_6_type)
 let item_7 = String(item_6)
 console.log("item_7 ==", item_7, typeof(item_7))
 let item_7_type = item_7
