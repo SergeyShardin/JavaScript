@@ -39,4 +39,3 @@
 //   vowel_count('case')
 //   vowel_count('Case')
 //   vowel_count('Check-list')
-
